@@ -1,0 +1,52 @@
+/* STYLE SECTIONING TAGS */
+body {
+  font-family: "Courier New", Courier New;
+  margin: 2em;
+}
+
+p {
+  text-align: left;
+  font-family: "Courier New", Courier New;
+}
+/* STYLE TEXT */
+h1 {
+  color: black;
+  text-align: left;
+  font-family: "Courier New", Courier New;
+}
+
+h2 {
+  text-align: left;
+  font-family: "Courier New", Courier New;
+}
+.question {
+  display: flex;
+  /* uncomment the next line to center the questions and answers */
+  /* justify-content: center; */
+  margin-top: 2em;
+}
+/* STYLE IMAGES */
+.answer-choice {
+  margin: 5px;
+}
+
+/* STYLE IMAGES */
+.answer-choice img {
+  height: 10em;
+}
+
+/* STYLE BUTTON */
+button { 
+  background-color: #f295be;
+  color: black;
+}
+
+button:hover {
+  background-color: #ffa0ce;
+  color: black;
+  border-color: #ffa0ce;
+}
+
+
+
+
